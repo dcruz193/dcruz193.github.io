@@ -223,7 +223,9 @@
         }, {
           path: 'shipping',
           component: _shipping_shipping_component__WEBPACK_IMPORTED_MODULE_7__.ShippingComponent
-        }])],
+        }], {
+          useHash: true
+        })],
         declarations: [_app_component__WEBPACK_IMPORTED_MODULE_0__.AppComponent, _top_bar_top_bar_component__WEBPACK_IMPORTED_MODULE_1__.TopBarComponent, _product_list_product_list_component__WEBPACK_IMPORTED_MODULE_2__.ProductListComponent, _product_alerts_product_alerts_component__WEBPACK_IMPORTED_MODULE_3__.ProductAlertsComponent, _product_details_product_details_component__WEBPACK_IMPORTED_MODULE_4__.ProductDetailsComponent, _cart_cart_component__WEBPACK_IMPORTED_MODULE_6__.CartComponent, _shipping_shipping_component__WEBPACK_IMPORTED_MODULE_7__.ShippingComponent],
         bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_0__.AppComponent],
         providers: [_cart_service__WEBPACK_IMPORTED_MODULE_5__.CartService]

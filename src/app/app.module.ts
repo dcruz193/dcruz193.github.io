@@ -30,7 +30,7 @@ import { ShippingComponent } from './shipping/shipping.component';
         path: 'shipping',
         component: ShippingComponent
       }
-    ])
+    ], { useHash: true })
   ],
   declarations: [
     AppComponent,
