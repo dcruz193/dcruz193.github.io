@@ -124,7 +124,7 @@ AppModule = (0,tslib__WEBPACK_IMPORTED_MODULE_8__.__decorate)([
                     path: 'shipping',
                     component: _shipping_shipping_component__WEBPACK_IMPORTED_MODULE_7__.ShippingComponent
                 }
-            ], { useHash: true })
+            ])
         ],
         declarations: [
             _app_component__WEBPACK_IMPORTED_MODULE_0__.AppComponent,
